@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**ariana1almeida/ariana1almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No momento estou estudando programação sozinha e também por meio de cursos e Bootcamps!
 
-Here are some ideas to get you started:
+📚 Cursos e Bootcamps que estou fazendo no momento:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱Desenvolvimento Web Completo 2021 (Alura Cursos)
+🌱Santander Bootcamp FullStack Developer
+🌱MRV FrontEnd SPA Developer
+
+📖Atualmente estou aprendendo ✨PostgreSQL✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ariana1almeida=anuraghazra&show_icons=true&theme=jolly)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ariana1almeida=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
