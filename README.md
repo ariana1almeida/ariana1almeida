@@ -16,6 +16,6 @@ No momento estou estudando programação sozinha e também por meio de cursos e 
 
 💌 Onde me encontrar:
 
-Linkedin: https://www.linkedin.com/in/ariana-quadros-de-almeida-b32453198/
+Linkedin: https://www.linkedin.com/in/arianaqalmeida/
 
 Email: arianaleu@hotmail.com
