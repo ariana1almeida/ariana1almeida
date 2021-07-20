@@ -4,7 +4,7 @@ No momento estou estudando programação sozinha e também por meio de cursos e 
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
-🌸Desenvolvimento Web Completo 2021 (Alura Cursos)
+🌸Desenvolvimento Web Completo 2021 (Udemy Cursos)
 
 🌸Santander Bootcamp FullStack Developer
 
