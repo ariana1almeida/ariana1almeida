@@ -1,16 +1,12 @@
 ### Olá! 🐇
 
-No momento estou estudando programação sozinha e também por meio de cursos e Bootcamps!
+No momento estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na Ulbra Torres e realizando cursos e bootcamps sempre que posso!
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
-🌸Desenvolvimento Web Completo 2021 (Udemy Cursos)
+🌸 -
 
-🌸Santander Bootcamp FullStack Developer
-
-🌸MRV FrontEnd SPA Developer
-
-☁ Atualmente estou aprendendo 🍓Java🍓
+☁ Atualmente estou aprendendo 🍓JavaScript🍓
 
 
 
@@ -18,4 +14,4 @@ No momento estou estudando programação sozinha e também por meio de cursos e 
 
 Linkedin: https://www.linkedin.com/in/arianaqalmeida/
 
-Email: arianaleu@hotmail.com
+Email: ariana.almeida@rede.ulbra.br
