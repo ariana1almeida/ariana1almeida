@@ -4,9 +4,9 @@ No momento estou cursando a faculdade de Análise e Desenvolvimento de Sistemas 
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
-🌸 -
+🌸 - UX: entenda a experiência de usuário
 
-☁ Atualmente estou aprendendo 🍓JavaScript🍓
+☁ Atualmente estou aprendendo 🍓UX Design e Javascript🍓
 
 
 
