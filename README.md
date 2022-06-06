@@ -4,7 +4,11 @@ No momento estou cursando a faculdade de Análise e Desenvolvimento de Sistemas 
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
-🌸 - UX: entenda a experiência de usuário
+🌸 - UX Strategy: divergindo e afunilando ideias (Alura)
+
+🍰 Cursos e Bootcamps concluídos:
+
+🌸 - UX: entenda a experiência de usuário (Alura)
 
 ☁ Atualmente estou aprendendo 🍓UX Design e Javascript🍓
 
