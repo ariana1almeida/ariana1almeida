@@ -10,7 +10,7 @@ No momento estou cursando a faculdade de Análise e Desenvolvimento de Sistemas 
 
 🌸 - UX: entenda a experiência de usuário (Alura)
 
-☁ Atualmente estou aprendendo 🍓UX Design e Javascript🍓
+☁ Atualmente estou aprendendo 🍓PHP🍓
 
 
 
