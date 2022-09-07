@@ -1,16 +1,18 @@
 ### Olá! 🐇
 
-No momento estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na Ulbra Torres e realizando cursos e bootcamps sempre que posso!
+No momento estou cursando o segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas na Ulbra Torres e realizando cursos e bootcamps sempre que posso!
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
-🌸 - UX Strategy: divergindo e afunilando ideias (Alura)
+🌸 -
 
-🍰 Cursos e Bootcamps concluídos:
+🍰 Cursos e Bootcamps recentemente concluídos:
 
-🌸 - UX: entenda a experiência de usuário (Alura)
+🌸 - Introdução ao Ecossistema e Documentação PHP (Digital Innovation One Inc.)
+🌸 - Introdução ao PHP (Digital Innovation One Inc.)
+🌸 - Formulários com condicionais e sessões com PHP (Digital Innovation One Inc.)
 
-☁ Atualmente estou aprendendo 🍓PHP🍓
+☁ Atualmente estou aprendendo 🍓PHP e Fundamentos de Banco de Dados🍓
 
 
 
