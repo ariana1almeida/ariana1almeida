@@ -4,7 +4,7 @@ No momento estou cursando o segundo semestre da faculdade de Análise e Desenvol
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
-🌸 -
+🌸 - Quality Assurance: plano de testes e gestão de bugs (Alura)
 
 🍰 Cursos e Bootcamps recentemente concluídos:
 
@@ -12,7 +12,7 @@ No momento estou cursando o segundo semestre da faculdade de Análise e Desenvol
 🌸 - Introdução ao PHP (Digital Innovation One Inc.)
 🌸 - Formulários com condicionais e sessões com PHP (Digital Innovation One Inc.)
 
-☁ Atualmente estou aprendendo 🍓PHP e Fundamentos de Banco de Dados🍓
+☁ Atualmente estou aprendendo 🍓QA e Fundamentos de Banco de Dados🍓
 
 
 
