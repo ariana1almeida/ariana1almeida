@@ -13,6 +13,11 @@ No momento estou cursando o segundo semestre da faculdade de Análise e Desenvol
 🌸 - Fundamentos de Qualidade de Software (DIO)
 🌸 - Metodologias Ágeis e Cicle de Desenvolvimento de Software (DIO)
 
+
+🍰 Livros que estou lendo no momento:
+
+🌸 - Engenharia de Software - Pressman, Roger
+
 ☁ Atualmente estou aprendendo 🍓QA e Fundamentos de Banco de Dados🍓
 
 
