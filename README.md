@@ -4,13 +4,14 @@ No momento estou cursando o segundo semestre da faculdade de Análise e Desenvol
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
-🌸 - Quality Assurance: plano de testes e gestão de bugs (Alura)
+🌸 - GFT Quality Assurance Para Mulheres (DIO)
+🌸 - Projeto: O Dia a Dia de um QA: A prática de Testes Manuais Funcionais (DIO)
 
 🍰 Cursos e Bootcamps recentemente concluídos:
 
-🌸 - Introdução ao Ecossistema e Documentação PHP (Digital Innovation One Inc.)
-🌸 - Introdução ao PHP (Digital Innovation One Inc.)
-🌸 - Formulários com condicionais e sessões com PHP (Digital Innovation One Inc.)
+🌸 - Quality Assurance: plano de testes e gestão de bugs (Alura)
+🌸 - Fundamentos de Qualidade de Software (DIO)
+🌸 - Metodologias Ágeis e Cicle de Desenvolvimento de Software (DIO)
 
 ☁ Atualmente estou aprendendo 🍓QA e Fundamentos de Banco de Dados🍓
 
