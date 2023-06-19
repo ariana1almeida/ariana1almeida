@@ -1,6 +1,6 @@
 ### Olá! 🐇
 
-No momento estou cursando o segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas na Ulbra Torres e realizando cursos e bootcamps sempre que posso!
+No momento estou cursando o terceiro semestre da faculdade de Análise e Desenvolvimento de Sistemas na Ulbra Torres e realizando cursos e bootcamps sempre que posso!
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
