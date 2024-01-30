@@ -1,6 +1,6 @@
 ### Olá! 🐇
 
-No momento estou cursando o terceiro semestre da faculdade de Análise e Desenvolvimento de Sistemas na Ulbra Torres e realizando cursos e bootcamps sempre que posso!
+No momento estou cursando o quinto semestre da faculdade de Análise e Desenvolvimento de Sistemas na Ulbra Torres e realizando cursos e bootcamps sempre que posso!
 
 🍰 Cursos e Bootcamps que estou fazendo no momento:
 
@@ -16,9 +16,9 @@ No momento estou cursando o terceiro semestre da faculdade de Análise e Desenvo
 
 🍰 Livros que estou lendo no momento:
 
-🌸 - Engenharia de Software - Pressman, Roger
+🌸 -
 
-☁ Atualmente estou aprendendo 🍓QA e Java🍓
+☁ Atualmente estou aprendendo 🍓UX/UI🍓
 
 
 
